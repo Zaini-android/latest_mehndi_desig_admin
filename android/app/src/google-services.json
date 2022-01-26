@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "392289303645",
+    "project_id": "latest-mehndi-designs-880a3",
+    "storage_bucket": "latest-mehndi-designs-880a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392289303645:android:f61f8fabf74ec72314e1b4",
+        "android_client_info": {
+          "package_name": "com.company.latest_mehndi_designs_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392289303645-8g8oq4gm99m1vq9nppgfr2ig9b0nt4a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdoEzMmnaUbFZ1gldsSVoqWGozNntJR1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392289303645-8g8oq4gm99m1vq9nppgfr2ig9b0nt4a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392289303645:android:d5d796dfacbf707014e1b4",
+        "android_client_info": {
+          "package_name": "com.example.latest_mehndi_desig_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392289303645-8g8oq4gm99m1vq9nppgfr2ig9b0nt4a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdoEzMmnaUbFZ1gldsSVoqWGozNntJR1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392289303645-8g8oq4gm99m1vq9nppgfr2ig9b0nt4a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
